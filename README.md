@@ -12,7 +12,7 @@ $ cd Kang-Spam
 $ python -m pip install -r requirements.txt
 $ python main.py
 ```
-> Get Token [click here]()
+> Get Token [click here](https://s.id/TokenKangSpam)
 ## Support Me On
 <b>• [Facebook](https://m.facebook.com/dhasilva.junior.3)</b>
 <br>
