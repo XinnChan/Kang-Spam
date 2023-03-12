@@ -4,7 +4,7 @@ $ cd $HOME
 $ apt update && apt upgrade
 $ pkg install python
 $ pkg install git
-$ git clone https://github.com/Sxp-ID/Kang-Spam
+$ git clone https://github.com/XinnChan/Kang-Spam
 $ cd Kang-Spam
 $ git pull
 $ python -m pip install -r requirements.txt
