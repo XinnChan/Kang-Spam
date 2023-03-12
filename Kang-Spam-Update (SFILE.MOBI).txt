@@ -1,0 +1,16 @@
+Penginstallan :
+
+$ cd $HOME
+$ apt update && apt upgrade
+$ pkg install python
+$ pkg install git
+$ git clone https://github.com/Sxp-ID/Kang-Spam
+$ cd Kang-Spam
+$ git pull
+$ python -m pip install -r requirements.txt
+$ python main.py
+
+Thanks for watching..
+Jangan lupa untuk subrek channel yt admin FREE TUTORIAL
+dan aktifkan notifikasi loncengnya biar tau kalo
+admin upload video baru !
